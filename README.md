@@ -1,6 +1,6 @@
 <h3>BeniFest-The E-commerce application</h3>
 
-<p>The project's user-friendly experience provided a competitive advantage, attracting new customers. Utilized Stripe's robust security features, ensuring secure and PCI-compliant payment transactions, and instilling user trust. Employed Firebase's real-time database to manage orders efficiently.</p>
+<p>The project's user-friendly experience provided a competitive advantage, attracting new customers. Utilized Stripe's robust security features, ensuring secure and PCI-compliant payment transactions, and instilling user trust.Employed Firebase's real-time database to manage orders efficiently.</p>
 
 <ul>
 <li> The project’s user-friendly experience provided a competitive advantage, attracting new customers.</li>
